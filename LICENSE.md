@@ -5,7 +5,7 @@
 
 **Copyright © 2026 Alkameinc and the DBERT Internship Program. All Rights Reserved.**
 
-This software, including all accompanying source code, documentation, machine learning models, weights, and related materials (collectively referred to as the "Software"), is the exclusive intellectual property of Alkameinc, developed in association with the DBERT Internship Program (https://dbert.online).
+This software, including all accompanying source code, documentation, machine learning models, weights, and related materials (collectively referred to as the "Software"), is the exclusive intellectual property of Alkameinc, developed in association with the DBERT Internship Program (https://dbert.in).
 
 By accessing, downloading, viewing, or otherwise interacting with this repository, you ("Licensee") expressly agree to be bound by the following legally binding terms and conditions. If you do not agree to these terms, you must immediately delete all copies of the Software in your possession.
 
@@ -48,7 +48,7 @@ All right, title, and interest in and to the Software, including all copyrights,
 
 Any permitted academic publication, portfolio showcase, or educational presentation referencing this Software must include the following prominent attribution:
 
-> *"This project utilizes software developed by Alkameinc under the DBERT Internship Program (https://dbert.online). Copyright © 2026. All Rights Reserved."*
+> *"This project utilizes software developed by Alkameinc under the DBERT Internship Program (https://dbert.in). Copyright © 2026. All Rights Reserved."*
 
 ## 5. DISCLAIMER OF WARRANTIES
 

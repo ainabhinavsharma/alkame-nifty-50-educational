@@ -2,7 +2,7 @@
 
 > **DBERT Labs Internship 2026**
 > **Domain:** Data Analyst
-> **Program Details:** https://dbert.online · https://internship.dbert.online
+> **Program Details:** https://dbert.in · https://dbert.in/learners
 > This repository is a component of the DBERT Labs structural training track. All modifications, upgrade branches, and submitted pull requests are developed under professional educational guidelines.
 
 **NIFTY 50 Intraday Market Intelligence Engine**
@@ -23,7 +23,7 @@ Alkame-Nifty50 is an open-source, research-grade intraday signal engine for the 
 
 The full methodology, regulatory rationale, and business charter live in [`ALKAME_NIFTY50_CHARTER.md`](./ALKAME_NIFTY50_CHARTER.md). Read it first — it explains *why* the system is built the way it is.
 
-This project is built and maintained by interns and mentors of the **[DBERT AI Internship Program](https://internship.dbert.online)** — see the [DBERT Internship Program](#dbert-internship-program) section below to get involved.
+This project is built and maintained by interns and mentors of the **[DBERT AI Internship Program](https://dbert.in/learners)** — see the [DBERT Internship Program](#dbert-internship-program) section below to get involved.
 
 ---
 
@@ -285,7 +285,7 @@ streamlit run app.py
 
 ## DBERT Internship Program
 
-This repository — including the API layer, scalping engine, market scanner, position planner, narrative builder, and automation scripts — is built and maintained by student interns as part of the **[DBERT AI/ML Internship Program](https://internship.dbert.online)**, a hands-on remote internship for engineers who want real production experience instead of toy projects.
+This repository — including the API layer, scalping engine, market scanner, position planner, narrative builder, and automation scripts — is built and maintained by student interns as part of the **[DBERT AI/ML Internship Program](https://dbert.in/learners)**, a hands-on remote internship for engineers who want real production experience instead of toy projects.
 
 **Why do a DBERT internship?**
 
@@ -306,9 +306,9 @@ Every DBERT intern works on live GitHub repositories (like this one), receives c
 - Anyone interested in an *algorithmic trading internship* or *fintech internship* working with live NIFTY 50 market data
 - Contributors who want *open-source internship* experience on a public GitHub project
 
-> 🎓 **Apply now:** [internship.dbert.online](https://internship.dbert.online) — Free, remote, project-based internship with certification.
+> 🎓 **Apply now:** [dbert.in/learners](https://dbert.in/learners) — Free, remote, project-based internship with certification.
 
-If you found this repository through GitHub, search, or a recommendation, and you're evaluating internship options, DBERT's programs are structured around exactly this kind of production codebase — not simulations. Explore open roles, submit your application, and start contributing to projects like Alkame-Nifty50 at **[internship.dbert.online](https://internship.dbert.online)**.
+If you found this repository through GitHub, search, or a recommendation, and you're evaluating internship options, DBERT's programs are structured around exactly this kind of production codebase — not simulations. Explore open roles, submit your application, and start contributing to projects like Alkame-Nifty50 at **[dbert.in/learners](https://dbert.in/learners)**.
 
 If you are already a DBERT intern working on this codebase, refer to your assigned project brief for module-specific deliverables and evaluation criteria.
 

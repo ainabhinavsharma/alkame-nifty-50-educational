@@ -2,7 +2,7 @@
 
 > **Internship Project — DBERT Labs**
 > This project was built as part of the DBERT Labs Internship Program.
-> Program: https://dbert.online · Internships: https://internship.dbert.online
+> Program: https://dbert.in · Internships: https://dbert.in/learners
 > Domain: Data Analyst
 > Intern: [Your Name] · Batch start: [Month 2026]
 > Base project: Alkame-Nifty50 (Alkameinc/alkame-nifty-50-educational)
